@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/seven-wonders-of-the-world/static/css/main.4da62354.css",
+    "main.js": "/seven-wonders-of-the-world/static/js/main.b05b5c1e.js",
+    "index.html": "/seven-wonders-of-the-world/index.html",
+    "main.4da62354.css.map": "/seven-wonders-of-the-world/static/css/main.4da62354.css.map",
+    "main.b05b5c1e.js.map": "/seven-wonders-of-the-world/static/js/main.b05b5c1e.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.4da62354.css",
+    "static/js/main.b05b5c1e.js"
+  ]
+}
