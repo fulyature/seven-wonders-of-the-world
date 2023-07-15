@@ -1,3 +1,4 @@
+import "bootstrap/dist/css/bootstrap.min.css";
 import Header from "./components/Header";
 import Wonders from "./components/Wonders";
 import "./index.css";

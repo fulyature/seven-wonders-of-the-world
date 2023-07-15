@@ -20,8 +20,7 @@ SOLUTION
 │ ├── helper
 │ │ ├── data.js
 │ │  
-| ├── assets
-| | └──images
+| |
 │ └── index.js
 ├── package.json
 └── package-lock.json
