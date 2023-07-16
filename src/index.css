@@ -5,11 +5,16 @@
   padding: 0;
   margin: 0;
 }
-h2 {
+h2,
+h5 {
   color: #17594a;
 }
 body {
   font-family: "Ubuntu Mono", monospace;
 
   background-image: radial-gradient(circle, #f6ffde, #e3f2c1, #c9dbb2, #aac8a7);
+}
+button {
+  border: none;
+  background: none;
 }
